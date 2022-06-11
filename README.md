@@ -23,4 +23,3 @@
   <p>
 </div> 
 
-⭐️ From [ericdvlpr](https://github.com/ericdvlpr)
