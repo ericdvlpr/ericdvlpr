@@ -17,6 +17,7 @@
   <h3> 💻 Languages and Tools </h3>
   <p>
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+   <img src="https://banner2.cleanpng.com/20180328/due/kisspng-php-computer-icons-computer-programming-black-5abb579db292a1.1187344115222271017314.jpg" width="100">
   <p>
 </div> 
 
