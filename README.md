@@ -18,7 +18,7 @@
   <p>
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <img src="https://cutewallpaper.org/24/php-logo-png/php-1506b-cl.png" width="50">
-   <img src="https://icon2.cleanpng.com/20180802/rik/kisspng-mysql-computer-icons-database-php-data-objects-iconos-de-mysql-vectoriales-12-iconos-gratis-5b62af13eaf452.8576521515331940039624.jpg" width="50">
+   <img src="https://icon2.cleanpng.com/20180622/bxf/kisspng-mysql-relational-database-management-system-innodb-mysql-5b2cc305c5ba79.4704812815296601658099.jpg" width="50">
     
   <p>
 </div> 
