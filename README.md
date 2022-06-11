@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Eric Paul Jaucian 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" style="position:absolute" />
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "35%" align="right" alt="PIC" height="300px" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
