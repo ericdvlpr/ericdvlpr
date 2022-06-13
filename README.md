@@ -9,7 +9,8 @@
   - 🎓 &nbsp; Bachelor degree holder.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects .
   - 🌱 &nbsp; Learning more about Frontend Developement  .
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  - ✍️ &nbsp; Pursuing Gaming as a hobby
+ 
 </div> 
 </div>
 
