@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Eric Paul Jaucian 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack  🚀</h3>
+<h3 align="center">🚀 Backend Developer sometimes a Frontend Developer  🚀</h3>
 <div>
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "35%" align="right" alt="PIC" height="300px" />
 <div align="left"> 
