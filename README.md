@@ -17,9 +17,14 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <img src="https://cutewallpaper.org/24/php-logo-png/php-1506b-cl.png" width="50">
-   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50">
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"/>
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"/>
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"/>
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"/>
+   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"/>
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
+   <img src="https://w7.pngwing.com/pngs/779/126/png-transparent-php-laravel-computer-icons-application-programming-interface-zabbix-php-logo-text-logo-programming-language-thumbnail.png" width="50"/>
+   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50"/>
     
   <p>
 </div> 
