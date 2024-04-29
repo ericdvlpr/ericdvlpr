@@ -7,8 +7,8 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Bachelor degree holder.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects .
-  - 🌱 &nbsp; Learning more about Frontend Developement  .
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning more about Frontend Development.
   - ✍️ &nbsp; Pursuing Gaming as a hobby
  
 </div> 
@@ -22,8 +22,9 @@
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"/>
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"/>
    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"/>
+   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*WHkOcjsiZKJjTmunVjehPQ.png" width="50" />
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
-   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50"/>
+
     
   <p>
 </div> 
