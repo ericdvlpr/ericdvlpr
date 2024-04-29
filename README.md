@@ -23,7 +23,6 @@
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"/>
    <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"/>
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
-   <img src="https://w7.pngwing.com/pngs/779/126/png-transparent-php-laravel-computer-icons-application-programming-interface-zabbix-php-logo-text-logo-programming-language-thumbnail.png" width="50"/>
    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50"/>
     
   <p>
